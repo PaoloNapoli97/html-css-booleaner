@@ -41,3 +41,21 @@ mark{
     margin-top: 50px;
     margin-left: -20px;
 }
+
+table{
+    margin-top: 60px;
+    width: 100%;
+}
+
+td{
+    width: 33%;
+}
+
+thead{
+    background-color: #20A9E5;
+    color: white;  
+}
+
+.dispari{
+    background-color: #B1E5F2;
+}
