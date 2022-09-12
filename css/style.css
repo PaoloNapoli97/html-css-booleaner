@@ -59,3 +59,27 @@ thead{
 .dispari{
     background-color: #B1E5F2;
 }
+
+h3{
+    margin-top: 40px;
+    color: #808080;
+    font-size: 20px;
+}
+
+.monitor{
+    margin-top: -20px;
+    font-size: 30px;
+    color: white;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-image: url(../img/monitor.jpg);
+}
+
+.graph{
+    margin-top: -20px;
+    font-size: 30px;
+    color: white;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-image: url(../img/graph.jpg);
+}
