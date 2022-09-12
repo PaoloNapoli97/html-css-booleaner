@@ -1,0 +1,29 @@
+header{
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    height: 170px;
+    background-repeat: repeat-x;
+}
+
+#logo{
+    text-align: left;
+    height: 70px;
+    margin-top: 80px;
+}
+
+h1{
+    font-size: 70px;
+    margin-bottom: 4px;
+}
+
+.font{
+    font-size: 20px;
+}
+
+.autore{
+    color: #808080;
+}
+
+#booleaner{
+    color: #20A9E5;
+}
