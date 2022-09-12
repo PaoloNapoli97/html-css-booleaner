@@ -31,3 +31,13 @@ h1{
 .immagini{
     margin-top: 30px;   
 }
+
+mark{
+    background-color: yellow;
+    color: black;
+}
+
+.lista{
+    margin-top: 50px;
+    margin-left: -20px;
+}
