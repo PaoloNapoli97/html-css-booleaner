@@ -1,6 +1,6 @@
 header{
     background-color: #4EA0FF;
-    background-image: url(../img/pattern.png);
+    background-image: url('../img/pattern.png');
     height: 170px;
     background-repeat: repeat-x;
 }
@@ -45,6 +45,11 @@ mark{
 table{
     margin-top: 60px;
     width: 100%;
+    border-collapse: collapse
+}
+
+th{
+    text-align: left;
 }
 
 td{
